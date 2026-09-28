@@ -1,0 +1,16 @@
+# Python 3.11.15; package versions follow Supplementary Table S8.
+numpy==2.4.6
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.9.0
+statsmodels==0.14.6
+interpret-core==0.7.8
+xgboost==3.2.0
+lightgbm==4.6.0
+
+# Additional packages imported by the notebook and revision scripts.
+matplotlib
+seaborn
+Pillow
+joblib
+ipykernel
